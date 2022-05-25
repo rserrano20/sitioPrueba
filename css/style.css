@@ -1,0 +1,16 @@
+.efecto:hover{
+  transition: 150ms;
+  -webkit-transform: scale(1.1);
+   transform: scale(1.1);
+   filter: opacity(.9)
+    
+}
+
+.orange{
+    background-color: #FE7B68;
+}
+
+.darkgrey{
+    background-color: #262626;
+}
+
